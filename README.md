@@ -5,3 +5,5 @@ Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage
 
 Building a UI for farmers to upload images of crops. 
 Developing a deep learning model to identify diseases in crops Enabling image upload through a UI, and using CNNs for identifying crop diseases from images.
+
+Trained Model Link:https://drive.google.com/drive/u/1/folders/1fE6ajJt-gKHlB7CImmNwN_5I5MDwfvoe
