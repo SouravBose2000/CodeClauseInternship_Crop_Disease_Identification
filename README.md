@@ -1,5 +1,5 @@
 # CodeClauseInternship_Crop_Disease_Identification
-This repository is about building an Image classifier CNN with Python on Plant Disease Prediction.
+This repository is about building an Image classifier CNN with Python on Crop Disease Prediction.
 
 Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
